@@ -1,0 +1,22 @@
+[
+  {
+    "id": "iklan-1",
+    "title": "Diskon kopi 20%",
+    "advertiser": "Kopi Kita",
+    "description": "Berlaku sampai akhir bulan.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800",
+    "cta": "Pelajari",
+    "url": "https://example.com",
+    "durationSec": 6
+  },
+  {
+    "id": "iklan-2",
+    "title": "Sewa studio musik",
+    "advertiser": "Studio Nada",
+    "description": "Mulai Rp 50.000 per jam.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800",
+    "cta": "Booking",
+    "url": "https://example.com",
+    "durationSec": 8
+  }
+]
